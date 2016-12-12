@@ -1,0 +1,25 @@
+{
+  "name": "test_wallaby",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/angular": "^1.5.20",
+    "@types/node": "^0.0.2",
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.8",
+    "css-loader": "^0.26.0",
+    "electron": "^1.4.12",
+    "node-noop": "^1.0.0",
+    "ng-cache-loader": "^0.0.21",
+    "node-sass": "^3.13.0",
+    "sass-loader": "^4.0.2",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^1.2.2",
+    "typescript": "2.1",
+    "url-loader": "^0.5.7",
+    "wallaby-webpack": "^0.0.26",
+    "webpack": "^1.13.3"
+  }
+}
